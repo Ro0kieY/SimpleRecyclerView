@@ -1,3 +1,4 @@
 # SimpleRecyclerView
-A sample to learn Android development. 
+A sample to learn Android development.  
+
 通过 ItemTouchHelper 实现拖拽交换和滑动删除，通过 ItemDecoration 实现悬浮吸顶。
